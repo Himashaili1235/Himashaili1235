@@ -18,7 +18,7 @@
   **Duration**: August 2021 - June 2023
 
 - **Graduate Assistant**, Middle Tennessee State University  
-  Working as a Web Developer in the Center for Educational Department.
+  Currently working as a Web Developer in the Center for Educational Department.
 
 ## 📚 Education:
 - **Master of Science** in Computer Science, Middle Tennessee State University
